@@ -1,0 +1,8 @@
+patient_id,date_of_visit,age,gender,diagnosis
+1,2016-04-29T18:38:08Z,32,Male,Influenza
+2,2018-05-29T18:38:08Z,45,Female,Hypertension
+3,2017-08-29T18:38:08Z,28,Male,Common Cold
+4,2016-01-29T18:38:08Z,62,Female,Diabetes
+5,2023-03-29T18:38:08Z,41,Male,Hypertension
+6,NaN,41,Male,Hypertension
+7,NaN,41,Male,Hypertension
