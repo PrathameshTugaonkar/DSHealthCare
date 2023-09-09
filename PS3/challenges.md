@@ -9,6 +9,6 @@
 3. For the ScheduledDay  and AppointmentDay store the days into a sch_day, app_day variable. eg. Monday is 0, Sunday is 6 
 ###### (hint:You can use function under [pandas.Series](https://pandas.pydata.org/docs/reference/api/pandas.Series.html))
 4. Rename the columns where you find the improper or unusual usage.
-5. Create bar chart to count catogories against the count.
+5. Create bar chart to count categories against the count.
 ###### (hint:You can use value_counts())    
 6. Think and plot other charts that provide insights about the data.
